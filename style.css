@@ -1,0 +1,56 @@
+.row-1{
+    background-color: #fff;
+    border-bottom: solid 2px #ccc;
+}
+
+.my-name{
+    background-color: #4aaaa5; 
+    color: #ffffff; 
+    text-align: center;
+    padding: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.links{
+    font-size:large;
+    padding: 25px;
+    color: #777777; 
+    text-align:right;
+}
+
+.content{
+    background-color: #fff;
+    border: solid 1px;
+    border-color: #dddddd;  
+}
+
+.page-name{
+    color:#4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #ddd;
+    padding: 0;
+}
+
+.copyright{
+    background-color: #666666;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 7%;
+    color: #ddd;
+    text-align:center;
+    border-top: solid 6px #4aaaa5;
+    font-size: small;
+    justify-content: center;
+    align-items: center;
+}
