@@ -1,3 +1,8 @@
+.navbar{
+    padding: 0px;
+    border: 0px;
+}
+
 .row-1{
     background-color: #fff;
     border-bottom: solid 2px #ccc;
@@ -60,10 +65,6 @@ hr{
     border-color: #4aaaa5;
     margin-top: 5px;
     margin-bottom: 20px;
-}
-
-.gallery{
-    width: 90%;
 }
 
 .card{
